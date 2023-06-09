@@ -4,8 +4,8 @@ const getBooks = async () => {
   const options = {
     method: "GET",
     headers: {
-      "X-RapidAPI-Key": "32360ad673msh5dadacc43436a2fp1323d0jsn669da86bbab0",
-      "X-RapidAPI-Host": "hapi-books.p.rapidapi.com",
+      "X-RapidAPI-Key": "",
+      "X-RapidAPI-Host": "",
     },
   };
 
